@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "hkm007",
+      "email": "hkm@gmail.com",
+      "age": 20
+    },
+    {
+      "id": "2",
+      "name": "summy",
+      "email": "summy@gmail.com",
+      "age": 18
+    },
+    {
+      "id": "3",
+      "name": "dummy",
+      "email": "dummy@gmail.com",
+      "age": 16
+    },
+    {
+      "id": "4",
+      "name": "ironman",
+      "email": "iron@gmail.com",
+      "age": 30
+    },
+    {
+      "id": "5",
+      "name": "superman",
+      "email": "super@gmail.com",
+      "age": 35
+    }
+  ]
+}
